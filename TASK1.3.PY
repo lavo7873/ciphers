@@ -2,7 +2,7 @@ from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad, unpad
 
 # Read the original image
-with open('E:/COPIED FROM E/Desktop/python files/ciphers/pic_original.bmp', 'rb') as f:
+with open('C:/Users/Public/Github/ciphers/pic_original.bmp', 'rb') as f:
     original_content = f.read()
 
 # Extract the header and the image data
