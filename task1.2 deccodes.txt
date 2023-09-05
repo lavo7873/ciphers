@@ -11,7 +11,7 @@ cipher_types = [
 ]
 
 # Full path to the openssl executable
-openssl_path = "E:/COPIED FROM E/Desktop/python files/cypherttext.o2.txt"  # Replace with the actual path
+openssl_path = "C:/Users/Public/Github/ciphers/ciphertext-o2.txt"  # Replace with the actual path
 
 # Loop through each cipher type and perform encryption using openssl command
 for cipher_type in cipher_types:
