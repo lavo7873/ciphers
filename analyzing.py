@@ -10,7 +10,8 @@ ngram_sizes=("1" "2" "3")
 prefix="seed"
 
 # Loop through the n-gram sizes and run the analysis script
-for n in "${ngram_sizes[@]}"
+for n in "${ngram_sizes[@]}"{
 do
     python3.9 task1analysis.py "$ciphertext_file" "$n" "$prefix"
 done
+}
