@@ -1,0 +1,347 @@
+Top most frequent 2-character sequences:
+E : 605
+ T: 409
+j : 366
+TH: 336
+HE: 297
+ A: 269
+vR: 237
+RE: 210
+EE: 203
+AR: 191
+s : 178
+nE: 170
+R : 162
+An: 152
+Ej: 150
+ l: 142
+sn: 141
+Ru: 138
+ E: 127
+ w: 123
+EA: 121
+nv: 119
+En: 119
+Ts: 119
+n : 118
+ns: 116
+T : 115
+ H: 115
+u : 114
+ s: 113
+ j: 111
+ b: 110
+ v: 109
+ n: 108
+mE: 103
+r : 103
+Hv: 102
+vj: 98
+l : 97
+ u: 97
+AT: 95
+o : 93
+ER: 91
+vT: 87
+gE: 77
+sR: 76
+vE: 72
+ o: 71
+Am: 71
+Es: 70
+us: 70
+Em: 68
+mm: 65
+hn: 65
+ln: 65
+ e: 64
+ m: 63
+sl: 59
+H : 59
+TE: 58
+jT: 56
+RT: 56
+vm: 55
+sE: 54
+HA: 53
+jA: 52
+nA: 52
+Rj: 51
+vn: 50
+bv: 49
+Hs: 49
+bH: 48
+uA: 48
+Aj: 48
+oE: 46
+so: 45
+TA: 45
+nR: 45
+Ao: 44
+m : 43
+jE: 42
+ls: 41
+Tn: 40
+A : 39
+wr: 39
+sb: 38
+ov: 38
+hR: 38
+sm: 38
+es: 37
+Au: 37
+ k: 37
+Ev: 37
+ho: 37
+nj: 36
+ml: 36
+ms: 35
+Tv: 35
+sh: 34
+mA: 34
+Tj: 33
+vo: 33
+nT: 31
+wE: 31
+Av: 30
+eE: 30
+nh: 30
+ET: 30
+jH: 29
+nn: 29
+AE: 29
+k : 28
+Ae: 28
+bA: 27
+vg: 27
+ h: 27
+os: 27
+eA: 27
+xE: 27
+kv: 27
+oA: 26
+Eo: 26
+mh: 26
+vk: 25
+Ee: 25
+mv: 25
+ne: 25
+ R: 25
+Rv: 25
+Er: 25
+eH: 24
+uv: 23
+jv: 23
+RA: 23
+Th: 23
+wv: 23
+uE: 21
+xv: 21
+Ag: 21
+lA: 21
+TT: 20
+Ax: 20
+ev: 20
+lE: 19
+kA: 19
+Re: 19
+wA: 19
+El: 19
+hT: 19
+hE: 18
+Eg: 18
+no: 18
+ x: 17
+ws: 17
+Eh: 16
+gv: 16
+bE: 15
+uH: 15
+Eu: 15
+sw: 15
+mj: 15
+Ak: 15
+ex: 15
+em: 14
+hj: 14
+wh: 14
+je: 14
+bs: 14
+ve: 13
+sT: 13
+lv: 13
+mr: 13
+Ek: 13
+jh: 13
+v : 13
+Ah: 12
+un: 12
+vA: 12
+sj: 12
+sg: 12
+kk: 12
+or: 12
+kT: 11
+oj: 11
+ww: 11
+ok: 11
+ow: 11
+eh: 11
+kE: 11
+bj: 10
+uj: 10
+bR: 10
+Rl: 10
+hu: 10
+Tm: 10
+hk: 10
+nr: 10
+lT: 10
+mn: 10
+hx: 10
+x : 9
+ss: 9
+js: 9
+vu: 9
+HT: 9
+kn: 9
+ej: 9
+wm: 9
+wn: 9
+jk: 9
+vs: 9
+Te: 9
+um: 9
+ll: 9
+nu: 8
+Ew: 8
+b : 8
+uh: 8
+Al: 8
+gA: 8
+ g: 8
+xH: 8
+Eb: 7
+ng: 7
+lh: 7
+sr: 7
+rE: 7
+Ab: 7
+en: 7
+eT: 7
+ d: 7
+hv: 7
+km: 7
+jj: 7
+sH: 7
+xj: 7
+mg: 6
+ks: 6
+Hn: 6
+rj: 6
+mw: 6
+Tr: 6
+Tb: 6
+he: 6
+ee: 6
+At: 6
+tu: 6
+nb: 6
+su: 6
+jo: 6
+mo: 6
+ch: 5
+uu: 5
+Rg: 5
+Ar: 5
+ds: 5
+Hx: 5
+hm: 5
+om: 5
+Rs: 4
+rv: 4
+kH: 4
+lm: 4
+kh: 4
+ou: 4
+sv: 4
+mk: 4
+oh: 4
+e : 4
+dh: 4
+ r: 3
+mT: 3
+ob: 3
+sk: 3
+wj: 3
+gs: 3
+jb: 3
+Hm: 3
+ c: 3
+Rb: 3
+rR: 3
+RR: 3
+vl: 3
+Ho: 3
+ju: 3
+Rh: 3
+w : 3
+uo: 2
+xR: 2
+nx: 2
+  : 2
+vw: 2
+RH: 2
+vt: 2
+lj: 2
+Aw: 2
+jm: 2
+Tt: 2
+t : 2
+Ep: 2
+oT: 2
+Rd: 2
+hA: 2
+br: 2
+nm: 2
+vx: 2
+Rn: 2
+To: 2
+kj: 2
+sx: 2
+me: 2
+Rw: 1
+Ex: 1
+Rc: 1
+Hr: 1
+vp: 1
+pT: 1
+tA: 1
+ub: 1
+vH: 1
+nl: 1
+Tl: 1
+Rm: 1
+Rr: 1
+mx: 1
+jr: 1
+ro: 1
+wd: 1
+dE: 1
+pv: 1
+tE: 1
+ec: 1
+xm: 1
+Rk: 1
+pk: 1
+TR: 1
+oo: 1
+uT: 1
+jR: 1
+oe: 1
+Hu: 1
+bm: 1
+rA: 1
+Hj: 1
+kr: 1
+rn: 1

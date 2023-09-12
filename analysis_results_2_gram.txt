@@ -1,0 +1,11 @@
+Top most frequent 2-character sequences:
+ i: 409
+f : 395
+j : 366
+iz: 336
+zf: 296
+ q: 269
+vy: 237
+a : 210
+qy: 191
+s : 178

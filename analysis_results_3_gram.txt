@@ -1,0 +1,11 @@
+Top most frequent 3-character sequences:
+ iz: 259
+izf: 234
+zf : 192
+qya: 130
+vyu: 120
+ya : 111
+yu : 109
+is : 106
+ qy: 105
+ is: 97

@@ -1,0 +1,346 @@
+Top most frequent 2-character sequences:
+n : 138
+ y: 120
+q : 119
+yt: 115
+ v: 100
+y : 96
+tn: 89
+p : 79
+mu: 74
+ l: 62
+nh: 58
+vh: 57
+hn: 57
+u : 56
+vu: 56
+ g: 54
+nq: 54
+xu: 53
+ x: 50
+up: 46
+h : 46
+xh: 45
+yn: 44
+np: 44
+vy: 44
+d : 43
+nu: 42
+qy: 41
+ q: 39
+ m: 39
+ b: 37
+vq: 33
+vi: 33
+gn: 32
+av: 31
+my: 31
+xz: 30
+ym: 30
+nv: 29
+yx: 29
+ c: 29
+qn: 27
+mq: 27
+tv: 27
+ur: 26
+r : 26
+hq: 25
+lv: 25
+uy: 25
+ a: 25
+zy: 23
+uv: 23
+uq: 23
+ e: 23
+ i: 22
+b : 22
+fn: 22
+mi: 22
+iv: 22
+lm: 22
+tm: 21
+v : 21
+pn: 21
+ n: 21
+cn: 21
+na: 21
+ii: 21
+an: 20
+xb: 20
+x : 20
+id: 20
+in: 20
+t : 19
+nc: 19
+xy: 19
+ p: 19
+en: 19
+ma: 18
+hm: 18
+xc: 18
+cv: 18
+cx: 18
+un: 18
+ r: 18
+ix: 17
+ u: 17
+va: 17
+ax: 17
+i : 17
+xq: 16
+at: 16
+ux: 16
+cm: 16
+ t: 16
+ay: 16
+im: 15
+mx: 15
+fx: 15
+tx: 15
+zh: 14
+mr: 14
+ny: 14
+qm: 14
+bm: 14
+ h: 13
+hp: 13
+ln: 13
+c : 13
+ua: 13
+qx: 13
+pm: 13
+hy: 13
+bx: 13
+lt: 12
+nn: 12
+hv: 12
+yq: 12
+rx: 12
+mh: 12
+zu: 11
+vg: 11
+rn: 11
+pq: 11
+xx: 11
+gi: 11
+xi: 11
+hx: 11
+qq: 11
+yz: 10
+gx: 10
+rt: 10
+e : 10
+sn: 10
+ic: 10
+vp: 10
+eh: 10
+lx: 10
+vm: 10
+bn: 9
+ni: 9
+ze: 9
+ex: 9
+fm: 9
+mn: 9
+zq: 9
+gm: 9
+qa: 8
+hu: 8
+  : 8
+vl: 8
+vr: 8
+yv: 8
+ve: 8
+ev: 8
+mc: 8
+xl: 8
+qv: 8
+nf: 8
+vc: 8
+mp: 8
+xf: 8
+qe: 8
+ f: 8
+qz: 7
+ty: 7
+yh: 7
+mv: 7
+qt: 7
+ z: 7
+mf: 7
+dn: 7
+ip: 7
+zi: 7
+gz: 7
+vb: 6
+by: 6
+gv: 6
+ee: 6
+ei: 6
+ud: 6
+hr: 6
+nb: 6
+vf: 6
+em: 6
+ d: 6
+xg: 6
+px: 6
+zv: 6
+um: 6
+nd: 5
+nm: 5
+ce: 5
+uf: 5
+nk: 5
+jz: 5
+ri: 5
+bz: 5
+hd: 5
+yy: 5
+bv: 5
+pz: 5
+xe: 5
+ui: 5
+rz: 5
+uu: 5
+pv: 4
+cq: 4
+iq: 4
+gd: 4
+hc: 4
+nx: 4
+bh: 4
+ o: 4
+oz: 4
+vz: 4
+ai: 4
+hh: 4
+l : 4
+mb: 4
+xp: 4
+ru: 4
+zm: 4
+vs: 4
+nl: 4
+yl: 4
+vd: 3
+ms: 3
+xs: 3
+hf: 3
+as: 3
+lu: 3
+gh: 3
+ph: 3
+zr: 3
+ub: 3
+ha: 3
+xv: 3
+xm: 3
+zn: 3
+cd: 3
+am: 3
+ql: 3
+if: 3
+cg: 3
+nj: 3
+sm: 3
+xa: 3
+nr: 3
+rv: 3
+qu: 3
+fv: 3
+ye: 3
+ig: 3
+rr: 2
+aq: 2
+ca: 2
+qc: 2
+pu: 2
+ky: 2
+bi: 2
+sq: 2
+ j: 2
+pp: 2
+yd: 2
+ie: 2
+dq: 2
+pa: 2
+he: 2
+hi: 2
+s : 2
+iz: 2
+qb: 2
+dm: 2
+py: 2
+nt: 2
+ s: 2
+pc: 2
+za: 2
+xn: 2
+mg: 2
+uz: 2
+yi: 2
+ah: 2
+th: 2
+qi: 2
+me: 1
+dy: 1
+sr: 1
+pd: 1
+ns: 1
+dc: 1
+us: 1
+ed: 1
+ra: 1
+zg: 1
+ht: 1
+hb: 1
+dl: 1
+kz: 1
+it: 1
+bb: 1
+km: 1
+pi: 1
+xt: 1
+yc: 1
+bd: 1
+iy: 1
+rh: 1
+hs: 1
+pf: 1
+ti: 1
+zp: 1
+su: 1
+lq: 1
+td: 1
+de: 1
+ry: 1
+xr: 1
+rm: 1
+qs: 1
+pe: 1
+vt: 1
+bq: 1
+az: 1
+tb: 1
+xd: 1
+dt: 1
+ke: 1
+ne: 1
+mw: 1
+wn: 1
+zc: 1
+ey: 1
+ib: 1
+z : 1
+yb: 1
+ya: 1
+ng: 1
+gg: 1
+m : 1
+yg: 1
+yu: 1
+cc: 1
+ap: 1
+yp: 1

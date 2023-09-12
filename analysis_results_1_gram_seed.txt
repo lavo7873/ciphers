@@ -1,0 +1,28 @@
+Top most frequent 1-character sequences:
+ : 741
+n: 488
+y: 373
+v: 348
+x: 291
+u: 280
+q: 276
+m: 264
+h: 235
+t: 183
+i: 166
+p: 156
+a: 116
+c: 104
+z: 95
+l: 90
+g: 83
+b: 83
+r: 82
+e: 76
+d: 59
+f: 49
+s: 19
+k: 5
+j: 5
+o: 4
+w: 1
